@@ -60,8 +60,8 @@ All data is stored in a relational database and accessed through JDBC. Every scr
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/[owner]/[repo-name].git
-cd [repo-name]
+git clone https://github.com/CIS-3270/group-2-final-project.git
+cd group-2-final-project
 ```
 
 ### 2. Create the database
