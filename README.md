@@ -236,7 +236,7 @@ Repo owner: Natasha Narine
 | Natasha Narine | [Role] | [Areas] |
 | Justin Okoronta | [Role] | [Areas] |
 | Davon Deloatch | [Role] | [Areas] |
-| Jonathan Lim | [Role] | [Areas] |
+| Jeanmarc McLeish | [Role] | [Areas] |
 
 Suggested split: database (`sql/`, `db/`, `dao/`), backend logic (`model/`, `service/`, `exception/`), GUI for login, registration and recovery, and GUI for the dashboards plus `docs/`.
 
